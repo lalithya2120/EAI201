@@ -1,0 +1,11 @@
+animal_name,hair,feathers,eggs,milk,airborne,aquatic,predator,toothed,backbone,breathes,venomous,fins,legs,tail,domestic,catsize,class_type,habitat_type,diet,conservation_status,conservation_priority,aquatic_flag
+aardvark,1,0,0,1,0,0,1,1,1,1,0,0,4,0,0,1,1,savanna,insectivore,least concern,1,0
+antelope,1,0,0,1,0,0,0,1,1,1,0,0,4,1,0,1,1,grasslands,herbivore,near threatened,3,0
+bass,0,0,1,0,0,1,1,1,1,0,0,1,0,1,0,0,4,freshwater,carnivore,least,1,1
+bear,1,0,0,1,0,0,1,1,1,1,0,0,4,0,0,1,1,forest,omnivore,vulnerable,4,0
+boar,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1,1,forest,omnivore,least concern,1,0
+buffalo,1,0,0,1,0,0,0,1,1,1,0,0,4,1,0,1,1,grasslands,herbivore,endangered,5,0
+carp,0,0,1,0,0,1,0,1,1,0,0,1,0,1,1,0,4,freshwater,omnivore,least concern,1,1
+clam,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7,marine,filter_feeder,least concern,1,1
+crab,0,0,1,0,0,1,1,0,0,0,0,0,4,0,0,0,7,marine/coastal,omnivore,least concern,1,1
+deer,1,0,0,1,0,0,0,1,1,1,0,0,4,1,0,1,1,forest,herbivore,vulnerable,4,0
